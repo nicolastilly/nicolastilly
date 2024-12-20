@@ -1,6 +1,11 @@
 ## Hi! 👋
 
-Nicolas Tilly is an interactive media designer and creative developer based in Paris, with over fifteen years of experience in digital design. A graduate of École Régionale des Beaux-Arts de Valence (DNSEP) and ENSCI - Les Ateliers (Specialized Master's in New Media Creation), he has developed a multidisciplinary approach encompassing publishing, web, video games, and prototyping.
-Since 2013, he has been teaching at ÉSAD Orléans and ICAN Paris, while also serving as a project director at ENSCI - Les Ateliers. His educational commitment extends internationally through workshops, notably at HEAD Geneva and FH Joanneum in Austria.
-His practice has been recognized with the Club des D.A's 3rd prize in 2024 for "Subterranean Dreams" and the 2nd Pulsar prize in 2018 for "Fran, Steve, Peter et les autres". As a researcher at ECOLAB, he contributes to the "Expanded Publishing" program and regularly participates in international symposiums.
-The year 2024 marks a turning point with his participation in several group exhibitions, including "histoires de famille" for France Design Week. His approach is characterized by constant exploration of new technologies, as evidenced by his work on artificial intelligence, graphic design, and web-based augmented reality.
+Nicolas Tilly is an interactive media designer and creative developer based in Paris, with over fifteen years of experience in digital design. He has developed a multidisciplinary approach encompassing publishing, web, video games, and prototyping. Since 2013, he has been teaching at ÉSAD Orléans and ICAN Paris, while also serving as a project director at ENSCI - Les Ateliers. His educational commitment extends internationally through workshops, notably at HEAD Geneva and FH Joanneum in Austria.
+His approach is characterized by constant exploration of new technologies, as evidenced by his work on artificial intelligence, graphic design, and web-based augmented reality.
+
+## 🔗 Links
+
+[My portfolio](https://nicolastilly.fr/)
+[Parcelle website](https://nicolastilly.fr/parcelle/)
+[Diagramme website](https://nicolastilly.fr/diagramme/)
+[Subterranean website](https://nicolastilly.fr/subterranean-dreams/)
