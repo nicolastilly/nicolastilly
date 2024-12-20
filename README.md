@@ -6,6 +6,9 @@ His approach is characterized by constant exploration of new technologies, as ev
 ## 🔗 Links
 
 [My portfolio](https://nicolastilly.fr/)
+
 [Parcelle website](https://nicolastilly.fr/parcelle/)
+
 [Diagramme website](https://nicolastilly.fr/diagramme/)
+
 [Subterranean website](https://nicolastilly.fr/subterranean-dreams/)
